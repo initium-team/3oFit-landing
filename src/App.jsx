@@ -1,9 +1,10 @@
 import "./App.css";
+import logo from "./assets/logo.svg"
 
 function App() {
   return (
     <>
-      <img className="logo" src="/public/logo.svg" alt=""/>
+      <img className="logo" src={logo} alt=""/>
     </>
   );
 }
