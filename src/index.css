@@ -96,7 +96,7 @@ button:focus-visible {
     min-width: calc(100% - 64px);
   }
   .content-container {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
     width: 100%;
     padding: 0px;
