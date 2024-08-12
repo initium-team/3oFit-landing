@@ -7,10 +7,10 @@ function App() {
 
       <div className="content-container">
         <div className="bottles-container">
-          <img src="./public/bottles.png" />
+          <img src="./bottles.png" />
         </div>
         <div className="text-container">
-          <img src="./public/texts.png" />
+          <img src="./texts.png" />
         </div>
       </div>
     </section>
